@@ -1,9 +1,9 @@
 {
-  "name": "reactjs-template",
+  "name": "tg-app-template",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://telegram-mini-apps.github.io/reactjs-template",
+  "homepage": "https://mezigore.github.io/tg-app-template",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
